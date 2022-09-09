@@ -27,3 +27,7 @@ Just realized that if we use the defult advanced search on Twitter, the time wil
 To convert the time to JST (Japan Standard Time), simply using the following line of code: 
 
 until:2022-07-25_00:00:00_JST since:2022-07-18_00:00:00_JST
+
+# Update about getting tweets with 2 sets of search terms 
+
+Simply adding one "OR" clause helps to get 2 sets of search terms
